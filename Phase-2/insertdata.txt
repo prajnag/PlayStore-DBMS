@@ -1,0 +1,61 @@
+101,Youtube,0,Videos and Live Streaming,GoogleInc,Entertainment,4.4,10.2
+102,TikTok,0,Make every Second Count,musical.ly,Entertainment,4.9,3.4
+103,Zomato,65,Reviews Delivery&Bookings,Zomato,Food,4.6,5.6
+104,GooglePay,98,Manage Finances,GoogleInc,Finance,4.1,7.8
+105,WhatsApp,0,Simple Reliable&Secure,Facebook,Networking,4.3,10.8
+106,Swiggy,0,Fast Delivery,BUNDL,Food,4.6,8
+107,Instagram,0,Share Photos and Videos,Facebook,Networking,4.7,10.1
+108,Gaana,125,Listen to the Best Hits,Times Internet,Music,3.5,1.5
+109,Spotify,165,Welcome to India,SpotifyInc,Music,4.5,0.45 
+110,Amazon Prime,130,Movies and TV Shows,Amazon,Entertainment,4.3,7.0
+111,PhonePe,104,One stop Wallet,PhonePayInc,Finance,3.2,1.3
+112,Facebook,0,Keep Up with Friends,Facebook,Networking,4.2,10
+113,Uber Eats,67,Fast Food Delivery,UberInc,Food,4.1,0.9
+114,PayTM,0,All Wallet solutions ,PaytmInc,Finance,4.2,2.6
+115,Truecaller,167,Spam ID,PhonePayInc,Security,3.9,0.2
+116,Messenger,0,Chat with Friends,Facebook,Networking,4.5,6.7
+117,MX Player,162,Play Music,MXInc,Music,2.5,0.3
+118,Gmail,0,Check email,GoogleInc,Networking,4.8,9.2
+119,JioMusic,200,Play Music Online,JioInc,Music,3.5,0.56
+120,Gmaps,0,Check directions,GoogleInc,Utilities,4.9,9.1
+121,Amazon,130,Retailing,Amazon,Shopping,4.6,9.1
+122,Airtel,190,Calling made easy,Airtel,Telecom,3.7,0.3
+123,Vodafone,90,Telecom made easy,Voda,Telecom,3.9,0.4
+124,Jio,190,Telecom at its finest,JioInc,Telecom,4.1,0.9
+125,Chrome,0,Fast Browser,GoogleInc,Utilities,4.8,10  
+126,Ola,100,Better value rides,Ola,Utilities,3.9,5.5
+127,Uber,0,Drives at its finest,UberInc,Utilities,3.1,4.2
+128,Hotstar,100,Best Movies and TV Shows,HotstarInc,Entertainment,3.3,0.4
+129,Netflix,0,Watch Movies and TV Shows,NetflixInc,Entertainment,4.7,2.2
+130,Snapchat,230,Snap with Friends,SnapInc,Networking,3.5,0.6
+131,Flipkart,100,Retailing and shopping,FlipkartInc,Shopping,3.6,3.6
+132,Shein,145,Unique shopping experience,SheinInc,Shopping,3.2,1.7
+133,Myntra,100,Best deals,FlipkartInc,Shopping,3.2,1.9
+134,eBay,200,Best gadget prices,eBayInc,Shopping,2.6,0.1
+135,Google Drive,0,Store all your Data,GoogleInc,Utilities,3.9,3.1
+136,Google Photos,0,Store your Memories,GoogleInc,Utilities,4.2,4.3
+137,Google,0,The Official Search App,GoogleInc,Utilities,4.1,5.3
+138,Tata Sky,100,Watch Live TV,TataSky,Entertainment,2.3,0.4
+139,OLX,200,Buy Sell Exchange,OLX,Shopping,2.5,0.4
+140,Twitter,134,Live Updates,TwitterInc,Networking,4.5,5.1
+141,AJIO,250,Handpicked Fashion,OLX,Shopping,3.5,0.7
+142,Lenskart,210,Eyewear Shopping App,OLX,Shopping,3.5,0.9
+143,Snapdeal,200,Buy Sell Exchange products,Flipkart,Shopping,3.5,1.4
+144,Urbanclap,167,Lifestyle made better,UrbanClapInc,Utilities,3.9,1.4
+145,Club Factory,145,Best shopping experience,SheinInc,Shopping,2.2,0.4
+146,Wynk,160,Play the finest Music,TataSky,Music,3.5,1.1
+147,Airtel TV,100,Movies,Airtel,Entertainment,2.7,1
+148,MakeMyTrip,150,Flight cab bus retail,MMTInc,Bookings,4.2,3.4
+149,Holiday Ambassador,120,Travel,MMTInc,Bookings,2.2,0.4
+150,Insider.in,0,Ticket Retail,PayTmInc,Bookings,3.2,2.4
+151,IRCTC,0,Rail Bookings,TravelInc,Bookings,4.5,3.9
+152,Redbus,0,Bus Bookings,TravelInc,Bookings,3.5,2.9
+153,Indigo,0,Indigo Flight Bookings,IndigoInc,Bookings,4.1,2.1
+154,Flipkart Seller Hub,210,For Business on Flipkart,Flipkart,Shopping,2.5,0.6
+155,Facebook Local,240,Find things to do,Facebook,Utilities,3.2,2
+156,Origami Live,120,Design Game,Facebook,Games,3.2,0.6
+157,Cannonball,0,Magnetic Poetry Game,GoogleInc,Games,3.1,1.5
+158,Google Music,0,Stream top hits!,GoogleInc,Music,2.9,3.1
+159,Think Think,189,Boost Brainpower,BUNDL,Games,2.1,1.0
+160,Temple Run,100,Run to Escape,GamesInc,Games,3.7,4.0
+161,Jetpack Joyride,145,Fly to Escape,GamesInc,Games,4.0,4.2

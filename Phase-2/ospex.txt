@@ -1,0 +1,10 @@
+110,11.0,Intel Core,iOS
+143,10.2,Intel Core,Android
+161,9.8,Intel Atom,iOS
+153,9.9,Sandy Bridge,iOS
+159,10.2,Intel Core,iOS
+126,11.0,Qualcomm,Android
+111,11.2,Qualcomm,iOS
+123,9.8,Sandy Bridge,Android
+103,10.4,Qualcomm,iOS
+155,10.2,Intel Atom,Android

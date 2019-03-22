@@ -1,0 +1,10 @@
+Games,10021,4.3,90.4
+Utilities,10000,3.9,100.3
+Entertainment,2342,4.8,86.0
+Networking,6543,4.2,54.4
+Shopping,7896,3.8,45.9
+Telecom,2353,3.2,22.0
+Music,3456,2.9,43.9
+Food,1237,4.1,12.7
+Finance,888,4.5,4.5
+Bookings,237,4.4,3.8

@@ -1,0 +1,11 @@
+110,172,Yes,2010 Amazon Ltd,27
+143,200,No,2011 Snapdeal Inc,10
+161,255,Yes,2011 GamesInc Ltd,2
+153,102,Yes,IndigoInc Pvt Ltd,25
+159,350,Yes,BUNDL Tech Ltd,1 
+126,444,Yes,Ola Pvt Ltd,15
+111,387,Yes,2010 Phone Pay Ltd,10
+123,290,No,2009 Vodafone Ltd,5
+103,190,No,Zomato Pvt Ltd,7
+155,345,No,Facebook Ltd,17
+116,244,No,Facebook Ltd,17

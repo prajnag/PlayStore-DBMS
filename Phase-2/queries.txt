@@ -1,0 +1,43 @@
+1.
+Select apps in the music genre:
+select * from apps where appgen=’Music’;
+
+2.
+Select particular developer:
+select * from apps where app_dev=’GoogleInc’;
+
+3.
+Select number of languages a particular app has:
+select languages from app_specs, apps where app_id=123 and apps.app_id=app_specs.appid_spec;
+
+4.
+Select apps rating greater than 4:
+select * from apps where cust_rating>4.0;
+
+5.
+Free apps with more than 5M downloads:
+select * from apps where price=0 and appnod>5;
+
+6.
+Apps where payTM can be used:
+select appname from apps, payment where apps.app_id=payment.app_pay and wallet_name='PayTM';
+
+7.
+App for ed_choice of jan 2019:
+select * from EDITORS_CH where year='2019' and month='January';
+
+8.
+Developer where no_of_apps greater than 10:
+select * from DEVELOPER where no_of_apps>10;
+
+9.
+Apps that req more than 100 MB of space:
+ select appname from apps, app_specs where apps.app_id=app_specs.appid_spec and space_req_in_mb>100;
+
+10.
+Copyright of a particular app:
+select copyright from APP_SPECS, apps where APP_SPECS.appid_spec=apps.app_id and appname='Amazon Prime';
+
+11.
+What processor is used by 'Amazon Prime':
+select processor from OS_SPECS, apps where OS_SPECS.appid_os=apps.app_id and appname='Amazon Prime';
