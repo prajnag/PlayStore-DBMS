@@ -41,3 +41,15 @@ select copyright from APP_SPECS, apps where APP_SPECS.appid_spec=apps.app_id and
 11.
 What processor is used by 'Amazon Prime':
 select processor from OS_SPECS, apps where OS_SPECS.appid_os=apps.app_id and appname='Amazon Prime';
+
+12.
+Name of genre with maximum downloads:
+select g_name from genres where g_nod_in_m=(select max(g_nod_in_m) from genres);
+ 
+13.
+Name of developer of the editors choice app of Jan 2019:
+select app_dev from apps, editors_ch where editors_ch.appid_ec=apps.app_id and editors_ch.month='January' and editors_ch.year='2019';
+
+14.
+Apps requiring between 150 and 250 MB of space:
+select * from app_specs where space_req_in_mb between 150 and 250;
