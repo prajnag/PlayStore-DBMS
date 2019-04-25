@@ -1,0 +1,15 @@
+1.
+SELECT app_id,appname,price,app_desc,app_dev FROM APPS,OS_SPECS WHERE appid_os=app_id AND ver_req in  (SELECT MAX(ver_req) FROM OS_SPECS  GROUP BY processor);
+
+2.
+SELECT * FROM APPS WHERE appnod = (SELECT MAX(appnod) FROM APPS,APP_SPECs WHERE app_id=appid_spec AND space_req_in_MB<200);
+
+3.
+select * from apps where app_desc like '%Escape%';
+
+4.
+select app_id,appname,price, app_desc, app_dev from ((select appid_os as id from os_specs where os_type like 'iOS') intersect (select appid_spec as id from app_specs where languages >10)) as T, apps where app_id=T.id;
+EOF;
+
+5.
+SELECT SUM(price),app_dev FROM APPS GROUP BY app_dev ;
